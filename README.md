@@ -1,4 +1,4 @@
-# Task-3-Customer-Purchase-Prediction-Using-Decision-Tree-Classification
+# Customer-Purchase-Prediction-Using-Decision-Tree-Classification
 In this task, a decision tree classifier was implemented to predict whether a customer would subscribe to a term deposit based on demographic and behavioral attributes. The Bank Marketing dataset from the UCI Machine Learning Repository was utilized. Categorical variables were encoded, and the data was split into training and testing sets. The model was then trained and evaluated to understand its predictive performance.
 
 ## *What is a Decision Tree Classifier?*
